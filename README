@@ -1,0 +1,17 @@
+請使用這個json資料來跑 放進data資料夾(代替mongodb上的資料)
+https://drive.google.com/open?id=0B0qb25WFyj_tZVpXOXJ4T19Fa3c
+
+
+
+
+先跑analyze存完bigdata後
+才可跑redis
+
+需安裝
+
+pip install pymongo;
+
+pip install jieba;
+
+pip install gensim;
+pip install redis;
