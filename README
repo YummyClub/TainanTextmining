@@ -9,9 +9,9 @@ https://drive.google.com/open?id=0B0qb25WFyj_tZVpXOXJ4T19Fa3c
 
 »Ý¦w¸Ë
 
-pip install pymongo;
-
-pip install jieba;
-
-pip install gensim;
-pip install redis;
+pip install pymongo
+pip install jieba
+pip install sklearn
+pip install gensim
+pip install redis
+pip install pprint
