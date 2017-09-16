@@ -9,6 +9,12 @@ https://drive.google.com/open?id=0B0qb25WFyj_tZVpXOXJ4T19Fa3c
 
 需安裝
 
+Redis
+https://redis.io/download
+並啟用它
+
+
+需安裝python套件
 pip install pymongo
 pip install jieba
 pip install sklearn
